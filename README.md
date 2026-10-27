@@ -1,3 +1,20 @@
+# EEPROM
+
+Libreria EEPROM di compatibilità per Arduino/ESP32, conservata come riferimento per applicazioni precedenti.
+
+> **Archivio di consultazione.** La documentazione del progetto dichiara la libreria deprecata.
+
+## Mappa del repository
+
+| Percorso | Contenuto | File |
+|---|---|---:|
+| [examples/](./examples) | Esempi di utilizzo. | 3 |
+| [src/](./src) | Codice sorgente principale. | 2 |
+
+---
+
+## Documentazione di riferimento conservata
+
 ## EEPROM
 
 EEPROM is deprecated.  For new applications on ESP32, use Preferences.  EEPROM is provided for backwards compatibility with existing Arduino applications.
